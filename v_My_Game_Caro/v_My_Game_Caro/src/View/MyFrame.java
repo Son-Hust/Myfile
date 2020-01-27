@@ -15,7 +15,6 @@ import javax.swing.JMenuItem;
 import javax.swing.JOptionPane;
 
 /**
- *
  * @author NguyenTuanVu
  */
 public class MyFrame implements ActionListener {
@@ -73,8 +72,8 @@ public class MyFrame implements ActionListener {
         if (e.getSource() == itemAbout) {
             JOptionPane.showMessageDialog(null,
                     "Copyright: Nguyễn Tuấn Vũ\n"
-                    + "GameCaro: Version 1.0\n"
-                    + "Gmail: Tuanvubk96@gmail.com",
+                            + "GameCaro: Version 1.0\n"
+                            + "Gmail: Tuanvubk96@gmail.com",
                     "About", 1);
         }
         if (e.getSource() == itemExit) {

@@ -7,12 +7,12 @@ package Controller;
 
 import static Controller.MyConst.HEIGHT_MAX;
 import static Controller.MyConst.WIDTH_MAX;
+
 import java.awt.Color;
 import java.awt.Point;
 import javax.swing.JButton;
 
 /**
- *
  * @author NguyenTuanVu
  */
 public class Computer {

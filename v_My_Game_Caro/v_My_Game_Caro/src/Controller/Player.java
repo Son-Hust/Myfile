@@ -11,7 +11,6 @@ import javax.swing.ImageIcon;
 import javax.swing.JButton;
 
 /**
- *
  * @author NguyenTuanVu
  */
 public class Player {

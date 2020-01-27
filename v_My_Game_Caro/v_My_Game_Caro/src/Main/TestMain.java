@@ -8,7 +8,6 @@ package Main;
 import View.MyFrame;
 
 /**
- *
  * @author NguyenTuanVu
  */
 public class TestMain {

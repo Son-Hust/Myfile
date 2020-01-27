@@ -6,11 +6,13 @@
 package View;
 
 import static Controller.MyConst.*;
+
 import Controller.StateGame;
 import Controller.Computer;
 import Controller.Player;
 import TCP.TCPClient;
 import TCP.TCPServer;
+
 import java.awt.Choice;
 import java.awt.Color;
 import java.awt.Point;
@@ -32,8 +34,6 @@ import javax.swing.JTextArea;
 import javax.swing.JTextField;
 
 /**
- *
- *
  * @author NguyenTuanVu
  */
 public class PanelMain extends JPanel implements ActionListener {

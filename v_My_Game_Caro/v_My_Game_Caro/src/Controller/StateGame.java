@@ -6,17 +6,17 @@
 package Controller;
 
 import static Controller.MyConst.*;
+
 import java.awt.Point;
 
 /**
- *
  * @author NguyenTuanVu
  */
 public class StateGame {
 
     private boolean latche = true;
 
-    private boolean checkRow(Point point, char data[][]){
+    private boolean checkRow(Point point, char data[][]) {
         int x = point.x - 1, count = 1;
         while ((x >= 0 && data[point.x][point.y] == data[x][point.y])) {
             count++;

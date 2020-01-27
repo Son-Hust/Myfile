@@ -7,7 +7,6 @@ import java.net.Socket;
 import javax.swing.JOptionPane;
 
 /**
- *
  * @author NguyenTuanVu
  */
 public class TCPClient {

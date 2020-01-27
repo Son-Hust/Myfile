@@ -6,7 +6,6 @@
 package Controller;
 
 /**
- *
  * @author NguyenTuanVu
  */
 public interface MyConst {
